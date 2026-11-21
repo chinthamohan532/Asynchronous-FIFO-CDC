@@ -1,0 +1,24 @@
+
+
+# Vivado generated folders
+/Mini project.cache/
+/Mini project.hw/
+/Mini project.ip_user_files/
+/Mini project.sim/
+
+# Temporary files
+*.jou
+*.log
+*.str
+*.wdb
+*.vcd
+
+# Generated FPGA files
+*.bit
+*.bin
+*.ltx
+*.mcs
+*.dcp
+
+# Operating system
+.DS_Store
