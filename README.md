@@ -61,10 +61,10 @@ The testbench checks:
 
 Verified simulation run:
 
-- Total words written: 1335
-- Total words read: 1335
-- Blocked write attempts: 2906
-- Blocked read attempts: 274
+- Total words written: 1333
+- Total words read: 1333
+- Blocked write attempts: 2848
+- Blocked read attempts: 285
 - Errors: 0
 - Final status: TEST PASSED
 
