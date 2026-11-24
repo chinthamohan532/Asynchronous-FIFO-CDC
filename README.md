@@ -67,7 +67,13 @@ Verified simulation run:
 - Blocked read attempts: 285
 - Errors: 0
 - Final status: TEST PASSED
+## Simulation Results
 
+### Vivado Waveform
+![FIFO Waveform](FIFO_waveform.png)
+
+### Simulation Output
+![Simulation Pass](simulation_pass.png)
 ## 8. Tools Used
 
 - Verilog HDL
